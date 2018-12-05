@@ -1,0 +1,10 @@
+spring.application.name=application
+spring.cloud.config.uri=http://localhost:8885
+management.security.enabled=false
+spring.cloud.config.profile=prod
+
+#RabbitMQ connection details
+spring.rabbitmq.host=localhost
+spring.rabbitmq.port=5672
+spring.rabbitmq.username=guest
+spring.rabbitmq.password=guest

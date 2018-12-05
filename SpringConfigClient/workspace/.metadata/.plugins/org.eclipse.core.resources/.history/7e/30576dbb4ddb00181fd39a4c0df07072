@@ -1,0 +1,5 @@
+server.port=8886
+management.endpoints.web.exposure.include=*
+#spring.security.user.name=nikita
+#spring.security.user.password=nikita@1234
+
