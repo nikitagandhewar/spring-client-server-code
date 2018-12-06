@@ -1,4 +1,0 @@
-spring.application.name=application
-spring.cloud.config.uri=http://localhost:8885
-management.security.enabled=true
-spring.cloud.config.profile=dev

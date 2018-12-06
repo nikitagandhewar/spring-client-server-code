@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings/**
+target/**
+data/**
+SpringConfigClient/workspace/**
+SpringConfigClient2/workspace/**
+SpringConfigServer/workspace/**

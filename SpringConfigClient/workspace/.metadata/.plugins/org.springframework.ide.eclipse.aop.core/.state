@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model>
-<aop-project name="ConfigClient"/>
-<aop-project name="ConfigClient2"/>
-<aop-project name="ConfigClient3"/>
-<aop-project name="ConfigServer"/>
-</aop-reference-model>
